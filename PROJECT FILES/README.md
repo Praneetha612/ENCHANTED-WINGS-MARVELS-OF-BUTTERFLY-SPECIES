@@ -74,7 +74,7 @@ The project includes branding elements such as the animated logo (`logo.gif`) an
 
 ## 👤 Author
 
-Developed by [Your Name]. Contributions, suggestions, and feedback are welcome.
+Developed by [M.Praneetha]. Contributions, suggestions, and feedback are welcome.
 
 ---
 
